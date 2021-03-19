@@ -6,12 +6,18 @@ import Movie from './Movie';
   render() {
     
     return (
-        <Movie 
+      <div>
+         <Movie 
            title={this.props.title}
            year={this.props.year}
            type={this.props.type}
            poster={this.props.poster}
-        />      
+        />
+        
+        <hr/>
+
+      </div>
+       
     
     )
   }
