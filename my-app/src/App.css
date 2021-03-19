@@ -1,0 +1,30 @@
+*{
+  background-color:darkgray;
+}
+.App{
+  text-align: center;
+}
+.table{
+  margin-left: 100px;
+}
+.image{
+  height:100px ;
+ 
+}
+
+.footer{
+  height: 120px;
+}
+
+.container{
+  height: 500px;
+}
+
+input{
+  height: 30px;
+  width: 250px;
+
+}
+button{
+  height: 36.5px;
+}
